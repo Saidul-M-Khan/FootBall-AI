@@ -55,7 +55,7 @@ Football AI Assistant is a FastAPI-based application that enables:
 
 ## Architecture
 
-![System Diagram](assets/diagram.svg)
+![System Diagram](assets/diagram.png)
 
 ---
 
