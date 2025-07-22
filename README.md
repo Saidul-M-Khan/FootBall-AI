@@ -51,6 +51,14 @@ Football AI Assistant is a FastAPI-based application that enables:
 4. **Database**: PostgreSQL for structured data storage
 5. **File Storage**: Local storage for PDF documents
 
+---
+
+## Architecture
+
+![System Diagram](assets/diagram.svg)
+
+---
+
 ## API Endpoints
 
 ### Document Management
@@ -167,10 +175,6 @@ uvicorn main:app --reload
 - Application logs in standard output
 - Database errors in PostgreSQL logs
 - ChromaDB errors in vector store logs
-
-## License
-
-[Your License Type] - See LICENSE file for details
 
 ## Contact
 
